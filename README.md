@@ -7,7 +7,7 @@
 
 24.04.04 Numpy기본과 Pandas기본 ([상세 내역 링크](https://github.com/100-hours-a-week/yuju-til/blob/main/Feb/2025-02-04.md))
 
-24.04.03 세부 주제 2 작성 (상세 내역 링크)
+24.04.05 Numpy복습 ([상세 내역 링크](https://github.com/100-hours-a-week/yuju-til/blob/main/Feb/2025-02-05.md))
 
 24.04.02 세부 주제 1 작성 (상세 내역 링크)
 
