@@ -13,3 +13,5 @@
 
 24.04.07 Deep Dive진행 ([상세 내역 링크](https://github.com/100-hours-a-week/yuju-til/blob/main/Feb/2025-02-07.md))
 
+### [2월 둘째주, 3주차] : 데이터 시각화
+24.02.10 데이터 시각화 깅의 ([상세 내역 링크](https://github.com/100-hours-a-week/yuju-til/blob/main/Feb/2025-02-10.md))
