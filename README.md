@@ -21,3 +21,5 @@
 24.02.11 Matplotlib 복습 ([상세 내역 링크](https://github.com/100-hours-a-week/yuju-til/blob/main/Feb/2025-02-12.md))
 
 24.02.11 Seaborn 복습 ([상세 내역 링크](https://github.com/100-hours-a-week/yuju-til/blob/main/Feb/2025-02-13.md))
+
+24.04.07 Deep Dive 진행 ([상세 내역 링크](https://github.com/100-hours-a-week/yuju-til/blob/main/Feb/2025-02-14.md))
