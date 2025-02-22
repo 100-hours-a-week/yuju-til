@@ -32,3 +32,5 @@
 25.02.20 FastAPI & AI ([상세 내역 링크](https://github.com/100-hours-a-week/yuju-til/blob/main/Feb/2025-02-20.md))
 
 25.02.21 Deep Dive 진행 ([상세 내역 링크](https://github.com/100-hours-a-week/yuju-til/blob/main/Feb/2025-02-21.md))
+
+25.02.22 openAI API실습 ([상세 내역 링크](https://github.com/100-hours-a-week/yuju-til/blob/main/Feb/2025-02-22.md))
