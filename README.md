@@ -34,3 +34,6 @@
 25.02.21 Deep Dive 진행 ([상세 내역 링크](https://github.com/100-hours-a-week/yuju-til/blob/main/Feb/2025-02-21.md))
 
 25.02.22 openAI API실습 ([상세 내역 링크](https://github.com/100-hours-a-week/yuju-til/blob/main/Feb/2025-02-22.md))
+
+### [2월 셋째주, 5주차] : 딥러닝 기초1
+25.02.24 CNN 강의 ([상세 내역 링크](https://github.com/100-hours-a-week/yuju-til/blob/main/Feb/2025-02-24.md))
